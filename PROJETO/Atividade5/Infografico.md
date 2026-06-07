@@ -16,4 +16,4 @@ Por fim, o projeto explora a influência da **dinâmica da alimentação elétri
 
 Dessa forma, a figura sintetiza o fluxo completo do desenvolvimento do pedal de distorção analógico, desde a entrada do sinal da guitarra até a obtenção do timbre final, destacando os principais conceitos de eletrônica analógica, processamento de sinais e engenharia de áudio empregados no projeto.
 
-![pedalEfeitoDistorcaoAnalogico.png](PROJETO/img/pedalEfeitoDistorcaoAnalogico.png)
+![pedalEfeitoDistorcaoAnalogico.png](../img/pedalEfeitoDistorcaoAnalogico.png)
