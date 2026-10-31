@@ -1,17 +1,19 @@
-# Fichamento Acadêmico: Revisão Bibliográfica em Circuitos Eletroeletrônicos
+<div align="center">
+   <img src="https://www.ifpb.edu.br/imagens/logotipos/campina-grande/@@images/image-1200-119374a47048af0ba09197e64453797c.png" width="100px">
+ </div>
 
-**Instituição:** Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) – Campus Campina Grande  
 **Curso:** Bacharelado em Engenharia de Computação  
 **Disciplina:** Circuitos Eletroeletrônicos (Projeto Semestral)  
-**Autores da Revisão Origem:** Anna Lígia Alves Nogueira, Edriel Jose Pacifico Gama e Lavoisier Chaves Ramos  
+**Equipe:** Anna Lígia Alves Nogueira, Edriel Jose Pacifico Gama e Lavoisier Chaves Ramos  
 **Ano de Referência:** 2026  
-**Padrão de Normatização:** ABNT NBR 6023 (Referências) e NBR 10520 (Citações)  
-
 ---
+<div align="center">
+  <h2>Fichamento: Revisão Bibliográfica</h2>
+</div>
 
 ## 1. Contextualização da Revisão Bibliográfica
 
-A revisão bibliográfica desenvolvida pelos discentes do curso de Bacharelado em Engenharia de Computação do Instituto Federal da Paraíba (IFPB - Campus Campina Grande) aborda a interseção entre circuitos eletroeletrônicos analógicos e digitais, sensoriamento físico de precisão e dispositivos de tecnologia assistiva háptica e vibrotátil. O levantamento de literatura abrange desde o projeto de amplificadores de potência de áudio de elevado desempenho até o desenvolvimento de sensores piezo-resistivos MEMS para monitoramento de sinais fisiológicos de baixa frequência e a construção de interfaces multissensoriais direcionadas ao público com restrições auditivas ou visuais.
+A revisão bibliográfica desenvolvida aborda a interseção entre circuitos eletroeletrônicos analógicos e digitais, sensoriamento físico de precisão e dispositivos de tecnologia assistiva háptica e vibrotátil. O levantamento de literatura abrange desde o projeto de amplificadores de potência de áudio de elevado desempenho até o desenvolvimento de sensores piezo-resistivos MEMS para monitoramento de sinais fisiológicos de baixa frequência e a construção de interfaces multissensoriais direcionadas ao público com restrições auditivas ou visuais.
 
 Para este fichamento temático, foram selecionadas cinco referências representativas do acervo bibliográfico analisado, destacando-se a relevância técnica dos arranjos circuitais, as metodologias de sensoriamento e as aplicações em engenharia de computação e eletrônica assistiva.
 
@@ -89,25 +91,11 @@ BAIJAL, A. et al. Composing vibrotactile music: A multi-sensory experience with 
 
 ---
 
-## 3. Síntese Comparativa das Obras Fichadas
-
-A tabela a seguir apresenta uma matriz comparativa entre as cinco obras fichadas, destacando os blocos circuiteiros, a classe de transdutores/atuadores e o domínio de aplicação:
-
-| Referência (Autores, Ano) | Domínio de Aplicação Principal | Bloco Circuital / Arquitetura | Transdutores / Elementos Sensores |
-| :--- | :--- | :--- | :--- |
-| **Levorato & De Francisco (2025)** | Amplificação de Áudio de Alta Fidelidade | Par diferencial com carga ativa + Estágio push-pull | Transdutores de áudio / Alto-falantes |
-| **Okamoto et al. (2023)** | Sensoriamento Biomédico e Monitoramento | Ponte de Wheatstone e amplificador de baixo ruído | Cantilever piezo-resistivo MEMS |
-| **Flores Ramones & del-Rio-Guerra (2023)** | Tecnologia Assistiva e Dispositivos Hápticos | Drivers de potência microcontrolados e controle PWM | Atuadores LRA, ERM e piezoelétricos |
-| **Fletcher, Verschuur & Perry (2023)** | Substituição Sensorial e Percepção de Fala | Filtros de frequência multicanal e drivers modulares | Array de atuadores vibrotáteis |
-| **Baijal et al. (2012)** | Interfaces Multissensoriais e Entretenimento | Sistema amplificador multicanal de áudio tátil | Transdutores eletroacústicos/vibrotáteis |
-
----
-
-## 4. Considerações Finais
+## 3. Considerações Finais
 
 O fichamento das referências selecionadas revela um panorama claro da evolução da eletrônica aplicada a sistemas assistivos e de medição física. Observa-se que o avanço dos circuitos eletroeletrônicos modernos depende fundamentalmente da integração harmoniosa entre três pilares:
 1. **Condicionamento de Sinal e Potência:** Projetos de amplificadores de alta linearidade e ganho elevado (como em Levorato & De Francisco, 2025);
 2. **Sensoriamento Microeletromecânico (MEMS):** Dispositivos de altíssima sensibilidade para captação de parâmetros físicos e biológicos (como em Okamoto et al., 2023);
 3. **Atuação Háptica e Interfaces Homem-Máquina:** Sistemas multicanais de conversão de áudio em estímulos táteis e mecânicos (como em Flores Ramones & del-Rio-Guerra, 2023; Fletcher et al., 2023; Baijal et al., 2012).
 
-Portanto, o conjunto bibliográfico analisado pelos autores do estudo do IFPB fornece uma fundamentação sólida para o projeto e a implementação de circuitos eletroeletrônicos interdisciplinares, unindo processamento analógico, microeletromecânica e engenharia de computação assistiva.
+Portanto, o conjunto bibliográfico analisado fornece uma fundamentação sólida para o projeto e a implementação de circuitos eletroeletrônicos interdisciplinares, unindo processamento analógico, microeletromecânica e engenharia de computação assistiva.
